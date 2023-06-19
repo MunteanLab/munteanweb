@@ -833,6 +833,12 @@ hr{
     }
 
 }
+
+@media (max-height:800px){
+    .footer{
+        margin-top:400px;
+    }
+}
 @media (max-width:750px){
     .contactbox h2{
         color: black;
