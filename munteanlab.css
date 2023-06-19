@@ -30,7 +30,14 @@ body{
     padding-right:30px;
     margin-top:20px;
     position:relative;
-    margin-bottom:200px;
+    min-height:100%;
+    margin-bottom:-100px;
+}
+
+#wrapper:after{
+    content:"";
+    display:block;
+    height:100px;
 }
 h2{
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -783,7 +790,7 @@ hr{
 /*FOOTER*/
 
 .footer{
-    height: 30px;
+    height: 100px;
     background-color:#101314;
     width:100%;
     margin:0px;
