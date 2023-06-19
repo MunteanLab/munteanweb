@@ -834,7 +834,7 @@ hr{
 
 }
 
-@media (max-height:800px){
+@media (max-height:700px){
     .footer{
         margin-top:400px;
     }
