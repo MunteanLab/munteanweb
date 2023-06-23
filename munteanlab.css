@@ -642,6 +642,8 @@ hr{
 /*PAPERS*/
 .pub_card{
     display:flex;
+    height:fit-content;
+    width:100%;
     margin-bottom:15px;
     align-items: center;
 }
@@ -812,6 +814,14 @@ hr{
     }
 }
 @media (max-width:750px){
+    .pub_ref{
+        font-size: 16px;
+
+    }
+    .pub_img img{
+        height:80px;
+        width:auto;
+    }
     .contactbox h2{
         color: black;
     }
@@ -827,16 +837,19 @@ hr{
         opacity:0;
         transition: opacity 0.25s ease;
     }
+    .research_summary{
+        margin: 0px 30px 30px 30px;
+    }
     .pub_card{
         align-items: flex-start;
     }
     .slider_cont{
-        width:500px;
-        height:525px;
-
+        width:400px;
+        height:520px;
     }
     .slider{
-        height:525px;
+        height:520px;
+        margin-left:-42px;
     
     }
     .slides{
