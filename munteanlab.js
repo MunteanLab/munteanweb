@@ -1,12 +1,14 @@
+//defining variables
 const buttons = document.querySelectorAll('.popup_button');
 const popUp = document.querySelector('.pop-up');
 const blurry = document.querySelector('.peoplepage')
 
+//array for pop-up cards on People page
 const people = [
     {
         name: "Brian Muntean, Ph.D.",
         title: "Principle Investigator",
-        about: "Lorem Ipsum, add more content later, description, titles, awards, honors, other links, etc.",
+        about: "Assistant Professor <br> Department of Pharmacology & Toxicology <br> Medical College of Georgia <br> Augusta University<br>-- <br> BS, 2009, Dr. LMV TiIlekeratne – The University of Toledo <br> PhD, 2014, Dr. Surya M. Nauli – The University of Toledo <br> Postdoc, Dr. Kirill A. Martemyanov – The Scripps Research Institute <br> -- <br> https://www.ncbi.nlm.nih.gov/myncbi/brian.muntean.1/bibliography/public/ <br> https://www.augusta.edu/mcg/phmtox/brian-muntean-phd.php <br> https://scholar.google.com/citations?user=iP8W0M8AAAAJ&hl=en&oi=ao",
         papers: "See the <a href='papers.html'><em>Papers</em></a> tab for more information.",
         imageSrc: "images/brian_muntean.jpg",
 
@@ -21,7 +23,7 @@ const people = [
     {
         name: "Casey Cryan, B.S.",
         title: "Research Assistant",
-        about: "Lorem Ipsum, add more content later, description, titles, awards, honors, other links, etc.",
+        about: "Hometown: Forty Fort, PA <br><br> Education: <br> King’s College, B.S Chemistry (2021) <br> Augusta University, Biomedical Studies, PhD Neuroscience (2026) <br><br> Research Interests: Motor Learning and Striatal Dopamine Signaling <br> (1) Differential regulation of dorsal regions of the striatum: dorsomedial (DMS) and dorsolateral (DLS) <br> (2) Role of KCTD5 and KCTD17 in motor function",
         papers: "Sloan DC, Cryan CE, Muntean BS.<a href='https://pubmed.ncbi.nlm.nih.gov/36736897/' target='_blank' class='pub_title'> Multiple potassium channel tetramerization domain (KCTD) family members interact with Gβγ, with effects on cAMP signaling.</a>  J Biol Chem. 2023 Mar;299(3):102924. doi: 10.1016/j.jbc.2023.102924. Epub 2023 Feb 1. PubMed PMID: 36736897; PubMed Central PMCID: PMC9976452.",
         imageSrc: "images/casey_cryan.jpg",
     },
@@ -40,13 +42,6 @@ const people = [
         imageSrc: "images/josephine_widjaja.jpg",
     },
     {
-        name: "Abdullah Chandasir",
-        title: "Research Assistant",
-        about: " ",
-        papers: "n/a",
-        imageSrc: "images/abdullah_chandasir.jpg",
-    },
-    {
         name: "ZiYan Britt, B.S.",
         title: "Research Assistant",
         about: " ",
@@ -63,6 +58,7 @@ const people = [
 
 ]
 
+//script for pop-up
 buttons.forEach(button => {
     button.addEventListener('click', (event) => {
         console.log(event.target.id);
@@ -91,6 +87,9 @@ function togglePopUp() {
     blurry.classList.toggle('active');
 }
 
+
+
+//navigation page
 const activePage = window.location.pathname;
 console.log(activePage);
 
