@@ -378,6 +378,9 @@ hr{
     width: 90%;
     gap:15px;
 }
+.research_summary{
+    margin: 0px 60px 30px 60px;
+}
 .researchimg img{
     width:300px;
 }
@@ -715,9 +718,8 @@ hr{
 }
 .contactcont {
     position:absolute;
-    left:65%;
-    right:5%;
-    top:10%;
+    left:8%;
+    top:8%;
     color:white;
     transition: left 0.25s ease;
     
