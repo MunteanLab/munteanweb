@@ -269,6 +269,7 @@ hr{
     margin-left:auto;
     margin-right:auto;
     align-items: center;
+
 }
 .slider{
    display:block;
@@ -818,6 +819,14 @@ hr{
         font-size: 16px;
 
     }
+    .pop-upr{
+        overflow-wrap: break-word;
+        width:100%;
+    }
+    .pop-upl img{
+        width:100%;
+        height: auto;
+    }
     .pub_img img{
         height:80px;
         width:auto;
@@ -849,7 +858,7 @@ hr{
     }
     .slider{
         height:520px;
-        margin-left:-42px;
+        margin-left:-20px;
     
     }
     .slides{
