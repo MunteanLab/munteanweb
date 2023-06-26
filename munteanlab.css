@@ -853,12 +853,12 @@ hr{
         align-items: flex-start;
     }
     .slider_cont{
-        width:400px;
+        width:375spx;
         height:520px;
     }
     .slider{
         height:520px;
-        margin-left:-20px;
+        margin-left:-25px;
     
     }
     .slides{
