@@ -8,7 +8,7 @@ const people = [
     {
         name: "Brian Muntean, Ph.D.",
         title: "Principle Investigator",
-        about: "Assistant Professor <br> Department of Pharmacology & Toxicology <br> Medical College of Georgia <br> Augusta University<br>-- <br> BS, 2009, Dr. LMV TiIlekeratne – The University of Toledo <br> PhD, 2014, Dr. Surya M. Nauli – The University of Toledo <br> Postdoc, Dr. Kirill A. Martemyanov – The Scripps Research Institute <br> -- <br> https://www.ncbi.nlm.nih.gov/myncbi/brian.muntean.1/bibliography/public/ <br> https://www.augusta.edu/mcg/phmtox/brian-muntean-phd.php <br> https://scholar.google.com/citations?user=iP8W0M8AAAAJ&hl=en&oi=ao",
+        about: "Assistant Professor <br> Department of Pharmacology & Toxicology <br> Medical College of Georgia <br> Augusta University<br>-- <br> BS, 2009, Dr. LMV TiIlekeratne – The University of Toledo <br> PhD, 2014, Dr. Surya M. Nauli – The University of Toledo <br> Postdoc, Dr. Kirill A. Martemyanov – The Scripps Research Institute <br> -- <br> <a href='https://www.augusta.edu/mcg/phmtox/brian-muntean-phd.php' target='_blank' class='pub_title'> Augusta University.</a> <br> <a href='https://www.ncbi.nlm.nih.gov/myncbi/brian.muntean.1/bibliography/public/' target='_blank' class='pub_title'> My NCBI Bibliography.</a> <br> <a href='https://scholar.google.com/citations?user=iP8W0M8AAAAJ&hl=en&oi=ao' target='_blank' class='pub_title'> Google Scholar.</a>",
         papers: "See the <a href='papers.html'><em>Papers</em></a> tab for more information.",
         imageSrc: "images/brian_muntean.jpg",
 
@@ -45,14 +45,14 @@ const people = [
         name: "ZiYan Britt, B.S.",
         title: "Research Assistant",
         about: " ",
-        papers: "n/a",
+        papers: "---",
         imageSrc: "images/ziyan_britt.jpg",
     },
     {
         name: "Saniya Momin, B.S.",
         title: "Research Assistant",
         about: " ",
-        papers: "n/a",
+        papers: "---",
         imageSrc: "images/saniya_momin.jpg",
     },
 
