@@ -23,7 +23,7 @@ const people = [
     {
         name: "Casey Cryan, B.S.",
         title: "Research Assistant",
-        about: "Hometown: Forty Fort, PA <br><br> Education: <br> King’s College, B.S Chemistry (2021) <br> Augusta University, Biomedical Studies, PhD Neuroscience (2026) <br><br> Research Interests: Motor Learning and Striatal Dopamine Signaling <br> (1) Differential regulation of dorsal regions of the striatum: dorsomedial (DMS) and dorsolateral (DLS) <br> (2) Role of KCTD5 and KCTD17 in motor function",
+        about: "Hometown: Forty Fort, PA <br><br> Education: <br> King’s College, B.S Chemistry (2021) <br> Augusta University, Biomedical Studies, PhD Neuroscience (2026) <br><br> Research Interests: Dopamine Signaling and KCTD5<br> (1) Role of dorsal striatum in physiology <br> (2) Role of KCTD5 in physiology",
         papers: "Sloan DC, Cryan CE, Muntean BS.<a href='https://pubmed.ncbi.nlm.nih.gov/36736897/' target='_blank' class='pub_title'> Multiple potassium channel tetramerization domain (KCTD) family members interact with Gβγ, with effects on cAMP signaling.</a>  J Biol Chem. 2023 Mar;299(3):102924. doi: 10.1016/j.jbc.2023.102924. Epub 2023 Feb 1. PubMed PMID: 36736897; PubMed Central PMCID: PMC9976452.",
         imageSrc: "images/casey_cryan.jpg",
     },
