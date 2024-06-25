@@ -38,7 +38,6 @@ const people = [
         name: "Forest Ray",
         title: "Undergraduate Student",
         about: " ",
-        papers: "---",
         imageSrc: "images/Ray_picture.jpg",
     },
     {
@@ -52,14 +51,13 @@ const people = [
         name: "ZiYan Britt, B.S.",
         title: "Undergraduate Student",
         about: " ",
-        papers: "---",
         imageSrc: "images/ziyan_britt.jpg",
     },
     {
         name: "Saniya Momin, B.S.",
         title: "Undergraduate Student",
         about: " ",
-        papers: "---",
+        papers: "Honor's thesis",
         imageSrc: "images/saniya_momin.jpg",
     },
 
