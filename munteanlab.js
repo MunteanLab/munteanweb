@@ -42,13 +42,6 @@ const people = [
         imageSrc: "images/Ray_picture.jpg",
     },
     {
-        name: "Saniya Momin, B.S.",
-        title: "Undergraduate Student",
-        about: " ",
-        papers: "---",
-        imageSrc: "images/saniya_momin.jpg",
-    },
-    {
         name: "Josephine Widjaja",
         title: "Undergraduate Student",
         about: "I am a graduate student at the Dental College of Georgia. I began working in Dr. Muntean's lab through the CURS Summer Scholar's program. Here, I investigated the interactions of a motor related protein KCTD5. Since then, I have worked on an engineering project to develop a custom rotating rod device for motor performance testing and am working on a manuscript for this device. I have also performed western blots for experiments related to how the circadian rhythmn influences proteins in the motor learning pathway and presented my findings at the CURS research symposium. Using HTML, CSS, and JavaScript, I have also worked on developing and maintaining a website for the Muntean lab. I hope to continue to explore software and the biological sciences and intermingle disciplines from STEM.",
