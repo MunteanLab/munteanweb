@@ -37,7 +37,7 @@ const people = [
         {
         name: "Forest Ray",
         title: "Undergraduate Student",
-        about: " ",,
+        about: " ",
         papers: "--",
         imageSrc: "images/Ray_picture.jpg",
     },
