@@ -51,6 +51,7 @@ const people = [
     {
         name: "ZiYan Britt, B.S.",
         title: "Undergraduate Student",
+        papers: "--",
         about: "Next: NIH Postbaccalaureate Intramural Research Training Award, National Institute of Environmental Health Sciences (NIEHS)",
         imageSrc: "images/ziyan_britt.jpg",
     },
