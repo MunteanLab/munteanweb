@@ -23,7 +23,7 @@ const people = [
     {
         name: "Casey Cryan, B.S.",
         title: "Research Assistant",
-        about: "Hometown: Forty Fort, PA <br><br> Education: <br> King’s College, B.S Chemistry (2021) <br> Augusta University, Biomedical Studies, PhD Neuroscience (2026) <br><br> Research Interests: Dopamine signaling and motor function<br>",
+        about: "Hometown: Forty Fort, PA <br><br> <strong>EDUCATION:</strong><br> King’s College, B.S Chemistry (2021) <br> Augusta University, Biomedical Studies, PhD Neuroscience (2026) <br><br> <strong>Research Interests:</strong> Dopamine signaling and motor function<br>",
         papers: "Sloan DC, Cryan CE, Muntean BS.<a href='https://pubmed.ncbi.nlm.nih.gov/36736897/' target='_blank' class='pub_title'> Multiple potassium channel tetramerization domain (KCTD) family members interact with Gβγ, with effects on cAMP signaling.</a>  J Biol Chem. 2023 Mar;299(3):102924. doi: 10.1016/j.jbc.2023.102924. Epub 2023 Feb 1. PubMed PMID: 36736897; PubMed Central PMCID: PMC9976452.",
         imageSrc: "images/casey_cryan.jpg",
     },
