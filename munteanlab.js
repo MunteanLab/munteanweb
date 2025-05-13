@@ -34,14 +34,7 @@ const people = [
         papers: "Sloan DC, Liao Y, Ray, F, Muntean BS. <a href='https://pubmed.ncbi.nlm.nih.gov/40233107/' target='_blank' class='pub_title'> The G protein modifier KCTD5 tunes the decoding of neuromodulatory signals necessary for motor function in striatal neurons.</a>  PLoS Biol. 2025 Apr 15;23(4):e3003117.  doi: 10.1371/journal.pbio.3003117. PubMed PMID: 40233107.<br><br>",
         imageSrc: "images/Ray_picture.jpg",
     },
-	{
-        name: "Douglas Sloan, B.S.",
-        title: "Research Assistant",
-        about: "Next: Biomedical Sciences PhD student at Augusta University",
-        papers: "Sloan DC, Liao Y, Ray, F, Muntean BS. <a href='https://pubmed.ncbi.nlm.nih.gov/40233107/' target='_blank' class='pub_title'> The G protein modifier KCTD5 tunes the decoding of neuromodulatory signals necessary for motor function in striatal neurons.</a>  PLoS Biol. 2025 Apr 15;23(4):e3003117.  doi: 10.1371/journal.pbio.3003117. PubMed PMID: 40233107.<br><br>Liao Y, Sloan DC, Widjaja JH, Muntean BS. <a href='https://pubmed.ncbi.nlm.nih.gov/37762619/' target='_blank' class='pub_title'> KCTD5 Forms Hetero-Oligomeric Complexes with Various Members of the KCTD Protein Family.</a>  Int J Mol Sci. 2023 Sep 20;24(18):14317. doi: 10.3390/ijms241814317. PubMed PMID: 37762619; PubMed Central PMCID: PMC10531988.<br><br>Widjaja JH, Sloan DC, Hauger JA, Muntean BS.<a href='https://pubmed.ncbi.nlm.nih.gov/37673671/' target='_blank' class='pub_title'> Customizable Open-Source Rotating Rod (Rotarod) Enables Robust Low-Cost Assessment of Motor Performance in Mice.</a>  eNeuro. 2023 Sep 6;10(9):ENEURO.0123-23.2023. doi: 10.1523/ENEURO.0123-23.2023. PubMed PMID: 37673671; PubMed Central PMCID: PMC10484359.<br><br>Sloan DC, Cryan CE, Muntean BS.<a href='https://pubmed.ncbi.nlm.nih.gov/36736897/' target='_blank' class='pub_title'> Multiple potassium channel tetramerization domain (KCTD) family members interact with Gβγ, with effects on cAMP signaling.</a>  J Biol Chem. 2023 Mar;299(3):102924. doi: 10.1016/j.jbc.2023.102924. Epub 2023 Feb 1. PubMed PMID: 36736897; PubMed Central PMCID: PMC9976452.<br><br>Muntean BS, Marwari S, Li X, Sloan DC, Young BD, Wohlschlegel JA, Martemyanov KA.<a href='https://pubmed.ncbi.nlm.nih.gov/34934014/' target='_blank' class='pub_title'> Members of the KCTD family are major regulators of cAMP signaling.</a>  Proc Natl Acad Sci U S A. 2022 Jan 4;119(1):e2119237119. doi: 10.1073/pnas.2119237119. PubMed PMID: 34934014; PubMed Central PMCID: PMC8740737.",
-        imageSrc: "images/douglas_sloan.jpg",
-    },
-    {
+ 	   {
         name: "Josephine Widjaja",
         title: "Undergraduate Student",
         about: "Next: Graduate student at the Dental College of Georgia, Augusta University",
@@ -61,6 +54,13 @@ const people = [
         about: "Next: Research Assistant, Emory University",
         papers: "Honor's thesis",
         imageSrc: "images/saniya_momin.jpg",
+    },
+	{
+        name: "Douglas Sloan, B.S.",
+        title: "Research Assistant",
+        about: "Next: Biomedical Sciences PhD student at Augusta University",
+        papers: "Sloan DC, Liao Y, Ray, F, Muntean BS. <a href='https://pubmed.ncbi.nlm.nih.gov/40233107/' target='_blank' class='pub_title'> The G protein modifier KCTD5 tunes the decoding of neuromodulatory signals necessary for motor function in striatal neurons.</a>  PLoS Biol. 2025 Apr 15;23(4):e3003117.  doi: 10.1371/journal.pbio.3003117. PubMed PMID: 40233107.<br><br>Liao Y, Sloan DC, Widjaja JH, Muntean BS. <a href='https://pubmed.ncbi.nlm.nih.gov/37762619/' target='_blank' class='pub_title'> KCTD5 Forms Hetero-Oligomeric Complexes with Various Members of the KCTD Protein Family.</a>  Int J Mol Sci. 2023 Sep 20;24(18):14317. doi: 10.3390/ijms241814317. PubMed PMID: 37762619; PubMed Central PMCID: PMC10531988.<br><br>Widjaja JH, Sloan DC, Hauger JA, Muntean BS.<a href='https://pubmed.ncbi.nlm.nih.gov/37673671/' target='_blank' class='pub_title'> Customizable Open-Source Rotating Rod (Rotarod) Enables Robust Low-Cost Assessment of Motor Performance in Mice.</a>  eNeuro. 2023 Sep 6;10(9):ENEURO.0123-23.2023. doi: 10.1523/ENEURO.0123-23.2023. PubMed PMID: 37673671; PubMed Central PMCID: PMC10484359.<br><br>Sloan DC, Cryan CE, Muntean BS.<a href='https://pubmed.ncbi.nlm.nih.gov/36736897/' target='_blank' class='pub_title'> Multiple potassium channel tetramerization domain (KCTD) family members interact with Gβγ, with effects on cAMP signaling.</a>  J Biol Chem. 2023 Mar;299(3):102924. doi: 10.1016/j.jbc.2023.102924. Epub 2023 Feb 1. PubMed PMID: 36736897; PubMed Central PMCID: PMC9976452.<br><br>Muntean BS, Marwari S, Li X, Sloan DC, Young BD, Wohlschlegel JA, Martemyanov KA.<a href='https://pubmed.ncbi.nlm.nih.gov/34934014/' target='_blank' class='pub_title'> Members of the KCTD family are major regulators of cAMP signaling.</a>  Proc Natl Acad Sci U S A. 2022 Jan 4;119(1):e2119237119. doi: 10.1073/pnas.2119237119. PubMed PMID: 34934014; PubMed Central PMCID: PMC8740737.",
+        imageSrc: "images/douglas_sloan.jpg",
     },
 
 ]
