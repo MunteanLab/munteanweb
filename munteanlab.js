@@ -16,7 +16,7 @@ const people = [
     {
         name: "Casey Cryan, B.S.",
         title: "Graduate Student",
-        about: "Hometown: Forty Fort, PA <br><br> <strong>EDUCATION:</strong><br> King’s College, B.S Chemistry (2021) <br> Augusta University, Biomedical Studies, PhD Neuroscience (2026) <br><br> <strong>Research Interests:</strong><br> Dopamine signaling and motor function<br>",
+        about: "Hometown: Forty Fort, PA <br><br> <strong>EDUCATION:</strong><br> King’s College, B.S Chemistry (2021) <br> Augusta University, Biomedical Studies, PhD Neuroscience (2026) <br><br> Next: Postdoc, Daniel Foster Lab, University of South Carolina School of Medicine",
         papers: "Cryan CE, Liao Y, Widjaja JH, Sloan DC, Han Q, Rudic RD, Muntean BS. <a href='https://pubmed.ncbi.nlm.nih.gov/40473476/' target='_blank' class='pub_title'> Bmal1 modulates striatal cAMP signaling and motor learning.</a>  J Neurosci. 2025 Jul 9;45(28):e0474242025.  doi: 10.1523/JNEUROSCI.0474-24.2025. PubMed PMID: 40473476; PubMed Central PMCID: PMC12244325.<br><br>Sloan DC, Cryan CE, Muntean BS.<a href='https://pubmed.ncbi.nlm.nih.gov/36736897/' target='_blank' class='pub_title'> Multiple potassium channel tetramerization domain (KCTD) family members interact with Gβγ, with effects on cAMP signaling.</a>  J Biol Chem. 2023 Mar;299(3):102924. doi: 10.1016/j.jbc.2023.102924. Epub 2023 Feb 1. PubMed PMID: 36736897; PubMed Central PMCID: PMC9976452.",
         imageSrc: "images/casey_cryan.jpg",
     },
